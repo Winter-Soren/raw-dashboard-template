@@ -1,13 +1,8 @@
 {
-  "name": "berry-free-material-react",
+  "name": "winterfell",
   "version": "3.5.0",
   "private": true,
-  "author": {
-    "name": "CodedThemes",
-    "email": "CodedThemes@gmail.com",
-    "url": "https://codedthemes.com/"
-  },
-  "homepage": "https://berrydashboard.io/free",
+  "homepage": "https://berrydashboard.io/",
   "scripts": {
     "start": "env-cmd -f .env vite",
     "build": "vite build",

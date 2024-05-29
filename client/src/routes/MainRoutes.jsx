@@ -30,7 +30,7 @@ const MainRoutes = {
       ]
     },
     {
-      path: 'sample-page',
+      path: '/sample-page',
       element: <SamplePage />
     }
   ]
